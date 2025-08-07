@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Pk",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "City Name": "Multan", "Latitude": 30.19, "Longitude": 71.47 }, "geometry": { "type": "Point", "coordinates": [ 71.47, 30.19 ] } },
+{ "type": "Feature", "properties": { "City Name": "Kot Addu", "Latitude": 30.46, "Longitude": 70.96 }, "geometry": { "type": "Point", "coordinates": [ 70.96, 30.46 ] } },
+{ "type": "Feature", "properties": { "City Name": "Islamabad", "Latitude": 33.72, "Longitude": 73.04 }, "geometry": { "type": "Point", "coordinates": [ 73.04, 33.72 ] } },
+{ "type": "Feature", "properties": { "City Name": "Lahore", "Latitude": 31.58, "Longitude": 74.35 }, "geometry": { "type": "Point", "coordinates": [ 74.35, 31.58 ] } }
+]
+}
